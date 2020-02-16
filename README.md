@@ -23,4 +23,4 @@ Untuk mereproduksi tutorial ini pastikan kalian telah melakukan hal - hal sebaga
 
 3. Jalankan perintah berikut ini: ```conda env create -f environment.yml```
 
-4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [!ini](https://osf.io/gvf37/).
+4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [ini](https://osf.io/gvf37/).
