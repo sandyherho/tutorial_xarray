@@ -4,6 +4,8 @@
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3669057.svg)](https://doi.org/10.5281/zenodo.3669057)
+
 
 ```xarray``` merupakan pustaka di lingkungan komputasi ilmiah Python yang berguna untuk menangani dataset
 multidimensi dengan metode pelabelan seperti pada struktur ```DataFrame```  di pustaka pandas. Hal ini sangatlah menguntungkan bagi kaum <i>awam</i> yang terbiasa
@@ -13,12 +15,10 @@ berformat NetCDF menggunakan ```xarray```. Diharapkan dengan hadirnya tutorial i
 
 Untuk mereproduksi tutorial ini pastikan kalian telah melakukan hal - hal sebagai berikut:
 
-1. Jalankan ```git clone git@github.com:sandyherho/tutorial_xarray.git```
+1. Jalankan: ```git clone git@github.com:sandyherho/tutorial_xarray.git```
 
 2. Unduh dan jalankan [Anaconda versi 3](https://www.anaconda.com/distribution/#download-section).
 
-3. Jalankan perintah berikut ini:
+3. Jalankan perintah berikut ini: ```conda env create -f environment.yml```
 
-```conda env create -f environment.yml```
-
-4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [!ini](https://osf.io/gvf37/)].
+4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [!ini](https://osf.io/gvf37/).
