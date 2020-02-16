@@ -8,7 +8,7 @@
 ```xarray``` merupakan pustaka di lingkungan komputasi ilmiah Python yang berguna untuk menangani dataset
 multidimensi dengan metode pelabelan seperti pada struktur ```DataFrame```  di pustaka pandas. Hal ini sangatlah menguntungkan bagi kaum <i>awam</i> yang terbiasa
 menangani data tabular, untuk mengeksplorasi data multidimensi secara lebih intuitif. Tutorial ini sendiri lebih berfokus pada analisis sederhana data luaran model iklim
-berformat NetCDF menggunakan ```xarray```. Diharapkan dengan hadirnya tutorial ini, dapat membantu kesulitan para praktisi dan mahasiswa S-1, utamanya untuk bidang non-geosains untuk mengeksplorasi data berformat NetCDF.
+berformat NetCDF menggunakan ```xarray```. Diharapkan dengan hadirnya tutorial ini, dapat membantu kesulitan para praktisi dan mahasiswa S-1, utamanya untuk bidang non-geosains dalam mengeksplorasi data berformat NetCDF.
 
 
 Untuk mereproduksi tutorial ini pastikan kalian telah melakukan hal - hal sebagai berikut:
@@ -21,4 +21,4 @@ Untuk mereproduksi tutorial ini pastikan kalian telah melakukan hal - hal sebaga
 
 ```conda env create -f environment.yml```
 
-4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [![ini](https://osf.io/gvf37/)].
+4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [!ini](https://osf.io/gvf37/)].
