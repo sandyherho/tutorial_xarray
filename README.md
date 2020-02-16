@@ -22,6 +22,6 @@ Untuk mereproduksi tutorial ini pastikan kalian telah melakukan hal - hal sebaga
 
 2. Unduh dan jalankan [Anaconda versi 3](https://www.anaconda.com/distribution/#download-section).
 
-3. Jalankan perintah berikut ini: ```conda env create -f environment.yml```
+3. Jalankan perintah berikut ini: ```conda env create -f tutorial_xarray.yml```
 
 4. Unduh data model iklim global yang dijadikan contoh pada folder ```Data``` di situs [ini](https://osf.io/gvf37/).
