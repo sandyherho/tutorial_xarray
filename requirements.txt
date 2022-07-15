@@ -19,7 +19,7 @@ cytoolz==0.10.1
 dask==2.10.1
 decorator==4.4.1
 defusedxml==0.6.0
-distributed==2.10.0
+distributed==2021.10.0
 dnspython==1.16.0
 ecdsa==0.15
 Electrum==3.3.8
